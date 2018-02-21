@@ -3,6 +3,17 @@
     flex-direction:row;
     flex-wrap:wrap;
     justify-content: space-around;
+} 
 
-
+.car-avatar{
+background-image: url('assets/iconoCoche.jpg');
+background-size: cover;
+}
+.customer-avatar{
+background-image: url('assets/Customers.png');
+background-size: cover;
+}
+.rental-avatar{
+background-image: url('assets/rental.png');
+background-size: cover;
 }
